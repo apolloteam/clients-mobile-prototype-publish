@@ -2,12 +2,28 @@ var story = {
  "title": "Index",
  "pages": [
   {
+   "title": "Login",
+   "height": 1488,
+   "width": 836,
+   "image": "Login.png",
+   "links": [{
+    "page": 10,
+    "rect": [
+     714,
+     317,
+     826,
+     353
+    ]
+   }],
+   "image2x": "Login@2x.png"
+  },
+  {
    "title": "Booking",
    "height": 2533,
    "width": 1341,
    "image": "Booking.png",
    "links": [{
-    "page": 3,
+    "page": 4,
     "rect": [
      34,
      1464,
@@ -23,7 +39,7 @@ var story = {
    "width": 406,
    "image": "Booking-carfeatures.png",
    "links": [{
-    "page": 5,
+    "page": 6,
     "rect": [
      33,
      615,
@@ -40,7 +56,7 @@ var story = {
    "image": "Booking-carfeatures2.png",
    "links": [
     {
-     "page": 5,
+     "page": 6,
      "rect": [
       49,
       615,
@@ -49,7 +65,7 @@ var story = {
      ]
     },
     {
-     "page": 5,
+     "page": 6,
      "rect": [
       585,
       615,
@@ -58,7 +74,7 @@ var story = {
      ]
     },
     {
-     "page": 4,
+     "page": 5,
      "rect": [
       1048,
       620,
@@ -75,7 +91,7 @@ var story = {
    "width": 696,
    "image": "Booking-carselect.png",
    "links": [{
-    "page": 1,
+    "page": 2,
     "rect": [
      278,
      416,
@@ -107,7 +123,7 @@ var story = {
    "width": 406,
    "image": "Booking-costCenter.png",
    "links": [{
-    "page": 4,
+    "page": 5,
     "rect": [
      33,
      615,
@@ -123,7 +139,7 @@ var story = {
    "width": 1001,
    "image": "Booking-flight.png",
    "links": [{
-    "page": 4,
+    "page": 5,
     "rect": [
      33,
      615,
@@ -150,29 +166,13 @@ var story = {
    "image2x": "ForceChangeUserName@2x.png"
   },
   {
-   "title": "Login",
-   "height": 1488,
-   "width": 836,
-   "image": "Login.png",
-   "links": [{
-    "page": 10,
-    "rect": [
-     714,
-     317,
-     826,
-     353
-    ]
-   }],
-   "image2x": "Login@2x.png"
-  },
-  {
    "title": "Main",
    "height": 1632,
    "width": 980,
    "image": "Main.png",
    "links": [
     {
-     "page": 0,
+     "page": 1,
      "rect": [
       358,
       584,
@@ -181,7 +181,7 @@ var story = {
      ]
     },
     {
-     "page": 0,
+     "page": 1,
      "rect": [
       854,
       584,
@@ -190,7 +190,7 @@ var story = {
      ]
     },
     {
-     "page": 0,
+     "page": 1,
      "rect": [
       854,
       1424,
@@ -223,7 +223,7 @@ var story = {
    "width": 705,
    "image": "Welcome.png",
    "links": [{
-    "page": 9,
+    "page": 0,
     "rect": [
      160,
      616,
